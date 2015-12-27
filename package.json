@@ -22,9 +22,9 @@
   "dependencies": {
     "babel-runtime": "^5.8.0",
     "babel-plugin-transform-runtime": "^6.1.2",
-    "vue": "^1.0.8",
+    "vue": "^1.0.13",
     "vue-hot-reload-api": "^1.2.1",
-    "vueify": "^7.0.0",
+    "vueify": "^8.0.0",
     "vueify-insert-css": "^1.0.0"
   }
 }
